@@ -1,0 +1,3 @@
+[submodule "OpenSubtitlesDownload"]
+	path = OpenSubtitlesDownload
+	url = https://github.com/emericg/OpenSubtitlesDownload.git
